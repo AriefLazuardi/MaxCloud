@@ -1,6 +1,6 @@
 # MAXCLOUD
 
-MaxCloud is an application created with the Laravel framework for the management and billing of VPS (Virtual Private Server) services automatically every hour. This application handles the billing process, low balance notification, automatic suspension of VPS when the balance is insufficient, as well as sending notifications to the database and email.
+MaxCloud is an API created with the Laravel framework for the management and billing of VPS (Virtual Private Server) services automatically every hour. This application handles the billing process, low balance notification, automatic suspension of VPS when the balance is insufficient, as well as sending notifications to the database and email.
 
 ## 🔧 Features
 
@@ -9,6 +9,10 @@ MaxCloud is an application created with the Laravel framework for the management
 -   Daily low balance notification
 -   Email and database notifications
 -   Artisan command billing: scheduled process
+
+## API Documentation
+
+[**Postman Documentation**](https://www.postman.com/qbills/workspace/maxcloud/collection/24198072-d1f68d00-02b4-4cf1-a12e-98aa90a518ba?action=share&creator=24198072)
 
 ## 🚀 Installation
 
