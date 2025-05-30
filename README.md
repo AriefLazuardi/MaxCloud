@@ -16,7 +16,7 @@ MaxCloud is an application created with the Laravel framework for the management
 
 ```bash
 git clone https://github.com/username/maxcloud.git
-cd maxcloud 2. Install dependensi
+cd maxcloud
 ```
 
 ### 2. Install Dependencies
@@ -94,23 +94,3 @@ Add it if you have FeatureTest or UnitTest.
 ## 📄 License
 
 This project is under the MIT license.
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
